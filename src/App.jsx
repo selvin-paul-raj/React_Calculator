@@ -16,6 +16,7 @@ const btnValues = [
 const App = () => {
   return (
     <CalcProvider>
+      <h1>Calculator</h1>
     <Wrapper>
       <Screen/>
      <ButtonBox>

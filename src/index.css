@@ -5,6 +5,11 @@
   box-sizing: border-box;
   /* Roboto Font */
 }
+h1{
+  color: white;
+  text-align: center;
+  text-shadow:0 2px 5px rgba(255, 255, 255, 1);
+}
 body{
   min-height: 100vh;
   background: #000;
@@ -17,7 +22,7 @@ body{
   background:#f6f8f9;
   width: 20rem;
   padding: 2rem;
-  margin-top: 2.5rem;
+  margin-top: 1rem;
   border-radius: 1rem;
   box-shadow: 0 0px 15px 5px  rgba(255, 255, 255, .5);
 }
